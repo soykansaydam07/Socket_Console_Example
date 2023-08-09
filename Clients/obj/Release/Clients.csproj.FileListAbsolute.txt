@@ -1,0 +1,5 @@
+C:\Users\soykan\Desktop\C#\C# Working\Server\Clients\bin\Release\Clients.exe.config
+C:\Users\soykan\Desktop\C#\C# Working\Server\Clients\bin\Release\Clients.exe
+C:\Users\soykan\Desktop\C#\C# Working\Server\Clients\bin\Release\Clients.pdb
+C:\Users\soykan\Desktop\C#\C# Working\Server\Clients\obj\Release\Clients.exe
+C:\Users\soykan\Desktop\C#\C# Working\Server\Clients\obj\Release\Clients.pdb

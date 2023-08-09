@@ -1,0 +1,5 @@
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\bin\Release\Server.exe.config
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\bin\Release\Server.exe
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\bin\Release\Server.pdb
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\obj\Release\Server.exe
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\obj\Release\Server.pdb

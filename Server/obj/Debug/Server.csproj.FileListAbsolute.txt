@@ -1,0 +1,6 @@
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\bin\Debug\Server.exe.config
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\bin\Debug\Server.exe
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\bin\Debug\Server.pdb
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\obj\Debug\Server.exe
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\obj\Debug\Server.pdb
+C:\Users\soykan\Desktop\C#\C# Working\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
